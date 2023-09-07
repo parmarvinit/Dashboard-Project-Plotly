@@ -1,0 +1,51 @@
+order_id,order_date,customer_id,product_name,product_category,order_amount,payment_method,shipping_address,customer_age
+1,2022-03-15,1036,Product G,Category 2,164,PayPal,456 Main St,39
+2,2022-03-15,1050,Product I,Category 1,200,PayPal,567 Oak St,52
+3,2022-03-16,1011,Product H,Category 3,221,Credit Card,345 Cedar St,50
+4,2022-03-16,1024,Product C,Category 2,135,Credit Card,567 Oak St,48
+5,2022-03-17,1045,Product E,Category 2,228,Credit Card,901 Cedar St,54
+6,2022-03-17,1044,Product G,Category 1,173,Credit Card,123 Main St,45
+7,2022-03-18,1046,Product G,Category 3,101,Credit Card,234 Birch Ave,36
+8,2022-03-19,1036,Product F,Category 2,195,PayPal,456 Main St,41
+9,2022-03-19,1047,Product B,Category 1,165,Debit Card,456 Main St,34
+10,2022-03-20,1004,Product B,Category 1,191,Debit Card,901 Cedar St,52
+11,2022-03-20,1004,Product H,Category 3,101,PayPal,789 Maple Ave,38
+12,2022-03-21,1028,Product E,Category 1,213,Credit Card,234 Birch Ave,48
+13,2022-03-22,1047,Product F,Category 1,248,Debit Card,123 Pine St,25
+14,2022-03-22,1016,Product E,Category 1,174,Credit Card,345 Cedar St,52
+15,2022-03-23,1013,Product I,Category 2,93,PayPal,678 Pine St,28
+16,2022-03-23,1006,Product B,Category 1,240,Credit Card,678 Pine St,57
+17,2022-03-24,1043,Product H,Category 3,192,Debit Card,890 Maple Ave,41
+18,2022-03-25,1014,Product A,Category 1,92,PayPal,345 Oak St,41
+19,2022-03-25,1045,Product F,Category 3,219,Debit Card,456 Maple Ave,22
+20,2022-03-26,1008,Product J,Category 2,199,Debit Card,345 Cedar St,49
+21,2022-03-26,1021,Product I,Category 1,189,PayPal,678 Elm St,58
+22,2022-03-27,1010,Product H,Category 3,95,Debit Card,567 Oak St,38
+23,2022-03-28,1045,Product E,Category 2,199,Credit Card,890 Maple Ave,58
+24,2022-03-28,1022,Product B,Category 3,221,Credit Card,789 Maple Ave,44
+25,2022-03-29,1004,Product C,Category 1,246,Credit Card,901 Oak St,57
+26,2022-03-29,1026,Product B,Category 2,172,Credit Card,901 Cedar St,31
+27,2022-03-30,1012,Product D,Category 1,197,Credit Card,123 Main St,37
+28,2022-03-30,1015,Product G,Category 1,180,Debit Card,456 Maple Ave,27
+29,2022-03-31,1004,Product C,Category 1,137,PayPal,123 Pine St,27
+30,2022-04-01,1030,Product A,Category 1,182,Credit Card,234 Birch Ave,24
+31,2022-04-01,1032,Product B,Category 1,180,Debit Card,901 Cedar St,51
+32,2022-04-02,1025,Product I,Category 3,173,Credit Card,678 Elm St,42
+33,2022-04-02,1004,Product J,Category 2,193,Credit Card,678 Pine St,53
+34,2022-04-03,1037,Product E,Category 2,186,Credit Card,901 Cedar St,33
+35,2022-04-04,1029,Product G,Category 2,157,Credit Card,789 Elm St,55
+36,2022-04-04,1003,Product D,Category 2,191,PayPal,678 Pine St,31
+37,2022-04-05,1037,Product G,Category 1,201,Debit Card,123 Main St,44
+38,2022-04-05,1013,Product J,Category 2,200,PayPal,901 Oak St,56
+39,2022-04-06,1001,Product E,Category 2,184,PayPal,890 Maple Ave,26
+40,2022-04-07,1033,Product H,Category 2,109,Debit Card,123 Pine St,41
+41,2022-04-07,1023,Product A,Category 3,114,Debit Card,123 Main St,51
+42,2022-04-08,1029,Product B,Category 1,110,Debit Card,123 Main St,56
+43,2022-04-08,1016,Product D,Category 3,112,PayPal,345 Cedar St,40
+44,2022-04-09,1019,Product D,Category 3,207,Debit Card,456 Main St,32
+45,2022-04-10,1003,Product A,Category 3,165,PayPal,789 Maple Ave,46
+46,2022-04-10,1039,Product J,Category 3,112,Credit Card,456 Maple Ave,51
+47,2022-04-11,1046,Product D,Category 2,174,Credit Card,123 Main St,38
+48,2022-04-11,1011,Product C,Category 2,113,PayPal,123 Pine St,39
+49,2022-04-12,1020,Product H,Category 2,218,Credit Card,901 Oak St,58
+50,2022-04-13,1028,Product D,Category 1,232,PayPal,123 Pine St,24
